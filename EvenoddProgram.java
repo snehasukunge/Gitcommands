@@ -1,4 +1,4 @@
-public class EvenOddProgram
+public class Evenoddprogram
 {
   public static void main(String args[])
   {
